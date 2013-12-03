@@ -16,10 +16,11 @@ drwxr-xr-x   12 tlberglund  staff        408 Dec  1  2012 Tools
 drwxr-xr-x  135 tlberglund  staff       4590 Oct 11 15:12 code
 drwxr-xr-x    3 tlberglund  staff        102 Aug 10  2012 eclipse-workspace
 drwxr-xr-x   46 tlberglund  staff       1564 Nov 22 12:40 github
-drwxr-xr-x    3 tlberglund  staff        102 Jul 19 12:04 old-emacs
 drwxr-xr-x    6 tlberglund  staff        204 Aug 11 23:49 poems
 drwxr-xr-x    3 tlberglund  staff        102 Aug  1 02:34 recover
 drwxr-xr-x   21 tlberglund  staff        714 Nov  2 14:23 scripts
 drwxr-xr-x    2 tlberglund  staff         68 Aug 10 21:19 src
 drwxr-xr-x   28 tlberglund  staff        952 Oct  6  2012 timberglund.com
 drwxr-xr-x   16 tlberglund  staff        544 Jul 26  2012 workshops
+Other things
+
